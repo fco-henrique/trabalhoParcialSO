@@ -1,0 +1,12 @@
+# Arquivos executáveis gerados pela compilação
+gerenciador_caixas
+gerenciador_caixas_p1
+formula_de_pi_p1
+formula_de_pi_p2
+teste_pthread
+
+# Arquivos objeto (comuns em projetos maiores)
+*.o
+
+# Arquivos de configuração do VSCode (opcional, mas boa prática)
+.vscode/
